@@ -1,0 +1,16 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+}
+
+#kim {
+  text-align: right;
+}
+
+#kourt {
+  text-align: left;
+}
